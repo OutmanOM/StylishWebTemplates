@@ -39,7 +39,7 @@ If you would like to contribute to this repository, please follow these steps:
 5. Push to the branch (`git push origin new-feature`)
 6. Create a new pull request
 
-Please note that all contributions must be in adherence with the [code of conduct](CODE_OF_CONDUCT.md).
+Please note that all contributions must be in adherence with the [567891](567891.md).
 
 ## License
 
